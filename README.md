@@ -13,14 +13,14 @@ Install the required packages with:
 
 All other libraries used are part of the Python standard library.
 
-
 ## Usage
 
 To run the program, launch it in a command‐prompt (CMD) shell using:
 ```bash
 	python cocaktrice_card_localizer.py
+```bash
 
 ## To force a reload of the database
-
+```bash
 Use the -f or --force option.
-
+```bash
